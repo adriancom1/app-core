@@ -1,0 +1,7 @@
+{
+  "name": "app-core",
+  "version": "1.0.0",
+  "description": "Application main engine for processing resource mapping to NoSql respository nodes",
+  "main" : "lib/app",
+  "author": "Adrian Sanoguel"
+}  
